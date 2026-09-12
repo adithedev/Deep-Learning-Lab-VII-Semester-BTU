@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/btu-logo.webp" width="140" alt="Bikaner Technical University Logo">
+<img src="./assets/btu_logo.webp" width="140" alt="Bikaner Technical University Logo">
 
 # Deep Learning Lab
 
