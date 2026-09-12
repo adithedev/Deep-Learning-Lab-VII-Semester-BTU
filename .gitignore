@@ -1,0 +1,63 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Datasets and generated data
+data/
+my_data/
+kaggle_data/
+datasets/
+*.csv
+*.zip
+*.rar
+
+# Cloned repositories / external repositories
+keras-io/
+
+# Temporary folders
+-p/
+temp/
+tmp/
+
+# Kaggle credentials
+kaggle.json
+
+# Environment and secret files
+.env
+.env.*
+*.key
+*.pem
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python distribution files
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Model/checkpoint files
+*.h5
+*.keras
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Google Colab generated files
+.colab/
